@@ -1,0 +1,43 @@
+.login-style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75vh;
+    background-color: #f5f5f5;
+  }
+  
+  .login-container {
+    background-color: white;
+    padding: 100px 150px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  }
+  
+  .label {
+    margin-left: -50%;
+  }
+  
+  .signuplink {
+    color: teal;
+    text-align: right;
+    float: right;
+    margin-right: -50%;
+  }
+  
+  button {
+    background-color: teal;
+    border: none;
+    color: white;
+    display: block;
+    width: 200%;
+    margin-left: -50%;
+    padding: 15px;
+    margin-top: 30px;
+  }
+  
+  input {
+    display: block;
+    padding: 5px;
+    margin-bottom: 15px;
+    margin-left: -50%;
+    width: 200%;
+  }
